@@ -1,7 +1,5 @@
-digestive-bootstrap
+digestive-foundation-lucid
 =====
-
-[![Build Status](https://travis-ci.org/agrafix/digestive-bootstrap.svg)](https://travis-ci.org/agrafix/digestive-bootstrap)
 
 # Intro
 
